@@ -4,6 +4,7 @@
     "description": "Collection of extension productivity essentials.",
     "version": "1.0.0",
     "publisher": "sercheo_87",
+    "license": "Apache License 2.0",
     "engines": {
         "vscode": "^1.59.0"
     },
