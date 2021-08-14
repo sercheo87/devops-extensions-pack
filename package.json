@@ -4,6 +4,7 @@
   "description": "Collection of extension productivity essentials.",
   "version": "1.0.0",
   "publisher": "sercheo87",
+  "icon": "images/icon.png",
   "author": {
     "name": "sercheo_87",
     "email": "chancaysergio@gmail.com",
