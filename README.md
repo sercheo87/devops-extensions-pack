@@ -43,17 +43,3 @@ Collection of extension productivity essentials.
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-## Develop
-
-Package extension
-
-```bash
-$ vsce package
-```
-
-Publish extension
-
-```bash
-$ vsce publish
-```
